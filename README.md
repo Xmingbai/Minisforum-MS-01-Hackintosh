@@ -3,7 +3,7 @@
 更新中
 
 
-B站测评视频：
+B站测评视频：https://www.bilibili.com/video/BV1Cg4y1k7qT
 
 ![](https://github.com/Xmingbai/Minisforum-MS-01-Hackintosh/blob/main/AB.png)
 
