@@ -1,6 +1,6 @@
 # Minisforum-MS-01-Hackintosh
 
-更新中
+待更新
 
 
 B站测评视频：https://www.bilibili.com/video/BV1Cg4y1k7qT
